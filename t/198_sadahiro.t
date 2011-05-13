@@ -1,5 +1,5 @@
 # This file is encoded in Latin-9.
-die "This file is not encoded in ShiftJIS.\n" if q{‚ } ne "\x82\xa0";
+die "This file is not encoded in Latin-9.\n" if q{‚ } ne "\x82\xa0";
 
 use Char::Latin9;
 print "1..1\n";
@@ -17,4 +17,4 @@ print "ok - 1 $^X $__FILE__ (NULL)\n";
 
 __END__
 
-http://search.cpan.org/dist/ShiftJIS-Regexp/
+http://search.cpan.org/dist/Latin-9-Regexp/
