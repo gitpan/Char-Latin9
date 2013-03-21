@@ -8,9 +8,9 @@ SYNOPSIS
 
       use Char::Latin9; # CPAN formal style
          or
-      use Latin9;
+      use Latin9; # casual style
 
-    At command prompt: # casual style
+    At command prompt:
 
       perl  yourscript.pl  wild*  *card  and  '*quote*'  on MSWin32
 
