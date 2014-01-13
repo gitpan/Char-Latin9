@@ -1,14 +1,12 @@
 NAME
 
-       Char::Latin9 - Source code filter for Latin-9 script (Imitation JPerl)
+       Latin9 - Source code filter for Latin-9 script (Imitation JPerl)
 
 SYNOPSIS
 
     In your script:
 
-      use Char::Latin9; # CPAN formal style
-         or
-      use Latin9; # casual style
+      use Latin9;
 
     At command prompt:
 
