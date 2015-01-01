@@ -12,7 +12,7 @@ DESCRIPTION
   environment in Latin-9 by easy installation and easy usage.
 
   - Character oriented regular expression
-  - Character oriented run-time routines
+  - Character oriented runtime routines
   - Character oriented subroutines
       and
   - Byte oriented CORE::* functions
@@ -45,6 +45,7 @@ INSTALLATION
 
 SUBROUTINES
 
+  Latin9::eval(charstring)
   Latin9::length(charstring)
   Latin9::substr(charstring, charpos, charlen)
   and more...
